@@ -62,6 +62,8 @@ Show the TA:
 
 You need Git and Python 3.10+. Check with `python3 --version` before creating the venv (the macOS system Python is too old). DVC and MLflow work natively on macOS, Windows and Linux; if you hit setup issues, use your team's VM.
 
+Clone [this repository](https://github.com/aku134/mlip-lab-9), then set up your environment:
+
 ```bash
 git clone https://github.com/aku134/mlip-lab-9.git
 cd mlip-lab-9
